@@ -12,12 +12,18 @@ Brands Routes:
 
 Addbrand ; http://localhost:3000/api/addbrand,
 
+
 brandByID ; http://localhost:3000/api/getbrandbyid,
+
 
 getallbrands ; http://localhost:3000/api/getallbrands,
 
+
 brandbyname ; http://localhost:3000/api/getbrandbyname,
+
 
 deleteBrand ; http://localhost:3000/api/deletebrand,
 
+
 updateBrand ; http://localhost:3000/api//updatebrand
+
